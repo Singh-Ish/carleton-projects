@@ -1,0 +1,110 @@
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Andy%20Adler
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Halim%20Yanikomeroglu
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=500&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Yvan%20Labiche
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=YaZpm7h6qnwC&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=YaZpm7h6qnwC&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mostafa%20Taha
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iM8ssiUAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Andy%20Adler
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=bO8me80AAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Halim%20Yanikomeroglu
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=C2iee4YAAAAJ&cstart=500&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Yvan%20Labiche
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=YaZpm7h6qnwC&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=YaZpm7h6qnwC&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
