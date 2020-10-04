@@ -3,6 +3,7 @@ import pandas as pd
 import json
 from datetime import date
 import time
+import os
 
 #author = scholarly.search_author_id('iM8ssiUAAAAJ')
 # single professor
@@ -34,12 +35,12 @@ for a in authors:
 
     # author details
     a = author.affiliation
-    b = author.citedby
-    c = author.cites_per_year
-    h = author.hindex
-    h5 = author.hindex5y
-    i = author.i10index
-    i10 = author.i10index5y
+    b = int(author.citedby)
+    c = float(author.cites_per_year)
+    h = float(author.hindex)
+    h5 = float(author.hindex5y)
+    i = float(author.i10index)
+    i10 = float(author.i10index5y)
     interest = author.interests
 
     author_df = author_df.append(
@@ -75,7 +76,14 @@ for a in authors:
 
 # export author and publication database
 today = str(date.today())
+cwd = os.getcwd()
+
+path = os.path.join(cwd , "data")
+
 author_file = "author" + today +".xlsx"
+
+path = os.path.join(path , author_file)
+
 author_df.to_excel(author_file)
 print(" exporting the author dataframe")
 
