@@ -16,8 +16,11 @@ print(author)
 '''
 # multiple professor response
 
-authors= ['Mostafa Taha','Andy Adler','Halim Yanikomeroglu','Yvan Labiche'] # name of professors to consider
+#authors= ['Mostafa Taha','Andy Adler','Halim Yanikomeroglu','Yvan Labiche'] # name of professors to consider
 
+df = pd.read_csv('sNames.csv') # reading author names from the csv list
+authors = df.stack().tolist()
+print(authors)
 
 #defining the dataframes
 publication_df = pd.DataFrame(columns=['id','name', 'title','cites','year'])
@@ -79,14 +82,16 @@ today = str(date.today())
 cwd = os.getcwd()
 
 path = os.path.join(cwd , "data")
-
 author_file = "author" + today +".xlsx"
 
-path = os.path.join(path , author_file)
+pathAuth = os.path.join(path , author_file)
 
-author_df.to_excel(author_file)
-print(" exporting the author dataframe")
+author_df.to_excel(pathAuth, index=False)
+author_df.to_csv("author.csv",index=False) # exporting to author csv
+print(" exporting the author dataframe to author csv and /data/author-date")
 
 publication_file= "publication" + today+ ".xlsx"
-publication_df.to_excel(publication_file)
-print("exporting the publciation dataframe")
+pathPub = os.path.join(path , publication_file)
+publication_df.to_excel(pathPub, index=False)
+publication_df.to_csv("publications.csv",index=False)
+print("exporting the publciation dataframe to publication csv and /data/publication-date ")

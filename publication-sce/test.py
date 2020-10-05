@@ -51,9 +51,17 @@ print(" exported the names to a csv file ")
 ####### when the name is same for scholarly erro handling
 #author = scholarly.search_author_id('Ni6CAs8AAAAJ')
 
-search_query = scholarly.search_author('Mostafa Taha')
+#search_query = scholarly.search_author('Mostafa Taha')
 
-print(next(search_query))
+#print(next(search_query))
+
+
+###### getting the author names from the excel sheet
+
+df = pd.read_csv('sNames.csv')
+author = df.stack().tolist()
+print(author)
+
 
 
 
