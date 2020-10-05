@@ -7,7 +7,7 @@ import os
 
 #author = scholarly.search_author_id('iM8ssiUAAAAJ')
 # single professor
-
+today = str(date.today()) # todays date
 '''
 search_query = scholarly.search_author('Mostafa Taha')
 author = next(search_query).fill()
@@ -39,7 +39,7 @@ for a in authors:
     # author details
     a = author.affiliation
     b = int(author.citedby)
-    c = float(author.cites_per_year)
+    c = author.cites_per_year
     h = float(author.hindex)
     h5 = float(author.hindex5y)
     i = float(author.i10index)
@@ -77,8 +77,13 @@ for a in authors:
     # time to sleep for 30 minutes
     time.sleep(1800)
 
+# adding the last updated coloum to the dataframes
+author_df['lastUpdated'] = today
+publication_df['lastUpdated'] = today
+
+
 # export author and publication database
-today = str(date.today())
+
 cwd = os.getcwd()
 
 path = os.path.join(cwd , "data")

@@ -1,0 +1,33 @@
+﻿id,name,title,cites,year
+iM8ssiUAAAAJ,Mostafa Taha,Differential fault intensity analysis,89,2014
+iM8ssiUAAAAJ,Mostafa Taha,VANET-DSRC protocol for reliable broadcasting of life safety messages,87,2007
+iM8ssiUAAAAJ,Mostafa Taha,Survey on threats and attacks on mobile networks,51,2016
+iM8ssiUAAAAJ,Mostafa Taha,QMS: Evaluating the side-channel resistance of masked software from source code,44,2014
+iM8ssiUAAAAJ,Mostafa Taha,Key-Updating for Leakage Resiliency with Application to AES Modes of Operation,34,2015
+iM8ssiUAAAAJ,Mostafa Taha,Side-channel analysis of MAC-Keccak,30,2013
+iM8ssiUAAAAJ,Mostafa Taha,Silent Simon: A Threshold Implementation under 100 Slices,27,2015
+iM8ssiUAAAAJ,Mostafa Taha,Differential power analysis of MAC-Keccak at any key-length,25,2013
+iM8ssiUAAAAJ,Mostafa Taha,Quantitative masking strength: quantifying the power side-channel resistance of software code,24,2015
+iM8ssiUAAAAJ,Mostafa Taha,Lightweight Side Channel Resistance: Threshold Implementations of Simon,20,2017
+iM8ssiUAAAAJ,Mostafa Taha,Smashing the implementation records of AES S-box,13,2018
+iM8ssiUAAAAJ,Mostafa Taha,SpecTre: A tiny side-channel resistant SPECK core for FPGAs,12,2016
+iM8ssiUAAAAJ,Mostafa Taha,Implementation Attacks on Post-Quantum Cryptographic Schemes,12,2015
+iM8ssiUAAAAJ,Mostafa Taha,Side-channel countermeasure for SHA-3 at almost-zero area overhead,12,2014
+iM8ssiUAAAAJ,Mostafa Taha,Efficient and side-channel-secure block cipher implementation with custom instructions on FPGA,8,2012
+iM8ssiUAAAAJ,Mostafa Taha,Broadcasting protocols in vehicular ad-hoc networks (vanets),8,2008
+iM8ssiUAAAAJ,Mostafa Taha,A Novel Headway-Based Vehicle-to-Vehicle Multi-Mode Broadcasting Protocol,7,2008
+iM8ssiUAAAAJ,Mostafa Taha,Keymill: Side-Channel Resilient Key Generator.,6,2016
+iM8ssiUAAAAJ,Mostafa Taha,New area record for the AES combined S-box/inverse S-box,5,2018
+iM8ssiUAAAAJ,Mostafa Taha,Stateless leakage resiliency from nlfsrs,5,2017
+iM8ssiUAAAAJ,Mostafa Taha,Performance analysis of physical layer security of chaos-based modulation schemes,4,2015
+iM8ssiUAAAAJ,Mostafa Taha,Integrated intra-vehicle–VANET system for increasing the road safety,3,2008
+iM8ssiUAAAAJ,Mostafa Taha,A key management scheme for DPA-protected authenticated encryption,2,2013
+iM8ssiUAAAAJ,Mostafa Taha,Broadcasting protocols in vehicular ad-hoc networks (vanets). MSc,2,2008
+iM8ssiUAAAAJ,Mostafa Taha,"Keymill: Side-Channel Resilient Key Generator, A New Concept for SCA-Security by Design",1,2016
+iM8ssiUAAAAJ,Mostafa Taha,A novel profiled side-channel attack in presence of high Algorithmic Noise,1,2012
+iM8ssiUAAAAJ,Mostafa Taha,A Study on Transmission Overhead of Post Quantum Cryptography Algorithms in Internet of Things Networks,0,2019
+iM8ssiUAAAAJ,Mostafa Taha,"New Low-Area Designs for the AES Forward, Inverse and Combined S-boxes",0,2019
+iM8ssiUAAAAJ,Mostafa Taha,Enhancing fault tolerance in MapReduce tasks,0,2019
+iM8ssiUAAAAJ,Mostafa Taha,Faster Leakage Detection and Exploitation,0,2015
+iM8ssiUAAAAJ,Mostafa Taha,Advances in the Side-Channel Analysis of Symmetric Cryptography,0,2014
+iM8ssiUAAAAJ,Mostafa Taha,FDTC 2017,0,0
