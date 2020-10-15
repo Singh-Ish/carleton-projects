@@ -19,7 +19,7 @@ authorId = df.stack().tolist()
 
 #print(authorId)
 noAuthorId=[]
-authorNames= pd.DataFrame(columns=['name'])
+authorNames= pd.DataFrame(columns=['name','id'])
 
 
 for a in authorId:
@@ -29,13 +29,14 @@ for a in authorId:
         print(a)
         author = scholarly.search_author_id(a)
         name = author.name
-        print(name)
-        authorNames = authorNames.append({'name':name}, ignore_index=True)
+        id = author.id
+        #print(name)
+        authorNames = authorNames.append({'name':name,'id':id}, ignore_index=True)
         time.sleep(300)
 
     except:
         noAuthorId.append(a)
-        print(" author id " + a + "is not present" )
+        #print(" author id " + a + "is not present" )
 
 
 #authorNames.to_json('scholarNames.json')

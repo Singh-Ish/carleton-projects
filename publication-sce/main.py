@@ -19,14 +19,21 @@ print(author)
 #authors= ['Mostafa Taha','Andy Adler','Halim Yanikomeroglu','Yvan Labiche'] # name of professors to consider
 
 df = pd.read_csv('sNames.csv') # reading author names from the csv list
-authors = df.stack().tolist()
-print(authors)
+#authors = df.stack().tolist()
+#print(authors)
 
 #defining the dataframes
 publication_df = pd.DataFrame(columns=['id','name', 'title','cites','year'])
 author_df = pd.DataFrame(columns=['id','name','affiliation','interest','citedby','citedbyyear','hindex','hindex5y','i10index','i10index5y'])
+notSameAuthor = pd.DataFrame(columns=['name'])
 
-for a in authors:
+
+for row in df.index:
+    a = df['name'][row]
+    oid = df['id'][row]
+
+    #print(a , " ", id)
+
     search_query = scholarly.search_author(a)
     author = next(search_query).fill()
 
@@ -35,47 +42,51 @@ for a in authors:
     id = author.id
     name = author.name
 
+    if id == oid:  # its the same author if that we want to scrap
+        aff = author.affiliation
+        b = int(author.citedby)
+        c = author.cites_per_year
+        h = float(author.hindex)
+        h5 = float(author.hindex5y)
+        i = float(author.i10index)
+        i10 = float(author.i10index5y)
+        interest = author.interests
 
-    # author details
-    a = author.affiliation
-    b = int(author.citedby)
-    c = author.cites_per_year
-    h = float(author.hindex)
-    h5 = float(author.hindex5y)
-    i = float(author.i10index)
-    i10 = float(author.i10index5y)
-    interest = author.interests
+        author_df = author_df.append( {'id': id, 'name': name, 'affiliation': a, 'interest': interest, 'citedby': b, 'citedbyyear': c, 'hindex': h, 'hindex5y': h5, 'i10index': i, 'i10index5y': i10}, ignore_index=True)
 
-    author_df = author_df.append(
-        {'id': id, 'name': name, 'affiliation': a, 'interest': interest, 'citedby': b, 'citedbyyear': c, 'hindex': h,
-         'hindex5y': h5, 'i10index': i, 'i10index5y': i10}, ignore_index=True)
+        # iterating all publications
+        print("reading the publications for " + author.name)
+        for z in author.publications:
 
-    author_df.sort_values(by=['name'])
+            data = z.bib
+            # print(data)
+            pub_json = json.dumps(data)
+            pj = json.loads(pub_json)
+            if ("year" in pj):
+                year = int(pj['year'])
+            else:
+                year = 0
 
-    # iterating all publications
-    print("reading the publications for " + author.name)
-    for z in author.publications:
+            title = str(pj['title'])
+            cites = int(pj['cites'])
 
-        data = z.bib
-        # print(data)
-        pub_json = json.dumps(data)
-        pj = json.loads(pub_json)
-        if ("year" in pj):
-            year = int(pj['year'])
-        else:
-            year = 0
+            publication_df = publication_df.append( {'id': id, 'name': name, 'title': title, 'cites': cites, 'year': year}, ignore_index=True)
 
-        title = str(pj['title'])
-        cites = int(pj['cites'])
+        # can add a step to add the author to the database or export it to an excel
 
-        publication_df = publication_df.append({'id': id, 'name': name, 'title': title, 'cites': cites, 'year': year},
-                                         ignore_index=True)
+        # time to sleep for 15 minutes
+        time.sleep(900)
+
+    else:
+        print("author id did not match to the name")
+        notSameAuthor = notSameAuthor.append({'name':name})
 
 
-    publication_df.sort_values(by=['cites'])
 
-    # time to sleep for 30 minutes
-    time.sleep(1800)
+
+# sorting the values based on name an publication cites
+publication_df.sort_values(by=['cites'])
+author_df.sort_values(by=['name'])
 
 # adding the last updated coloum to the dataframes
 author_df['lastUpdated'] = today
@@ -100,3 +111,10 @@ pathPub = os.path.join(path , publication_file)
 publication_df.to_excel(pathPub, index=False)
 publication_df.to_csv("publications.csv",index=False)
 print("exporting the publciation dataframe to publication csv and /data/publication-date ")
+
+
+
+print("can't find the below author details ")
+print(notSameAuthor)
+notSameAuthor.to_csv("notScrappedAuthor.csv",index=False)
+
