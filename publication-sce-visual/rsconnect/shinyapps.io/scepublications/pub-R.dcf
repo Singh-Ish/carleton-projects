@@ -1,0 +1,12 @@
+name: pub-R
+title: pub-R
+username:
+account: scepublications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2947045
+bundleId: 3717854
+url: https://scepublications.shinyapps.io/pub-R/
+when: 1602177123.34957
+asMultiple: FALSE
+asStatic: FALSE

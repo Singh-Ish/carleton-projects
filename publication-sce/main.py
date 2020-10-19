@@ -79,7 +79,7 @@ for row in df.index:
 
     else:
         print("author id did not match to the name")
-        notSameAuthor = notSameAuthor.append({'name':name})
+        notSameAuthor = notSameAuthor.append({'name':name},ignore_index=True)
 
 
 

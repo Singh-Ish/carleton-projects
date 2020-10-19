@@ -36,7 +36,7 @@ for row in df.index:
 
 
 
-
+'''
 
 ############ extract from google scholarly and compare it to verify
 
@@ -125,7 +125,7 @@ print(url)
 
 
 '''
-
+'''
 # other test
 today = date.today()
 today = str(today)
