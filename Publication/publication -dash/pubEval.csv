@@ -1,0 +1,643 @@
+name,title,cites,year,lastUpdated
+Halim Yanikomeroglu,Relay-based deployment concepts for wireless and mobile broadband radio,2237,2004,2020-10-15
+Yvan Labiche,Is mutation an appropriate tool for testing experiments?,985,2005,2020-10-15
+Halim Yanikomeroglu,"Device-to-device communication in 5G cellular networks: challenges, solutions, and future directions",933,2014,2020-10-15
+Halim Yanikomeroglu,Multihop diversity in wireless relaying channels,825,2004,2020-10-15
+F. Richard Yu,"Wireless network virtualization: A survey, some research issues and challenges",679,2014,2020-10-15
+Andy Adler,Uses and abuses of EIDORS: an extensible software base for EIT,618,2006,2020-10-15
+Changcheng Huang,Efficient resource allocation for device-to-device communication underlaying LTE network,609,2010,2020-10-15
+Adrian D. C. Chan,A Gaussian mixture model based classification scheme for myoelectric control of powered upper limb prostheses,600,2005,2020-10-15
+F. Richard Yu,"Software-defined networking (SDN) and distributed denial of service (DDoS) attacks in cloud computing environments: A survey, some research issues, and challenges",554,2015,2020-10-15
+Halim Yanikomeroglu,Efficient 3-D placement of an aerial base station in next generation cellular networks,512,2016,2020-10-15
+Thomas Kunz,The influence of different workload descriptions on a heuristic load balancing scheme,471,1991,2020-10-15
+Yvan Labiche,Using mutation analysis for assessing and comparing testing coverage criteria,465,2006,2020-10-15
+Dorina Petriu,The future of software performance engineering,465,2007,2020-10-15
+Murray Woodside,The future of software performance engineering,465,2007,2020-10-15
+F. Richard Yu,A new method to support UMTS/WLAN vertical handover using SCTP,453,2004,2020-10-15
+Andy Adler,GREIT: a unified approach to 2D linear EIT reconstruction of lung images,441,2009,2020-10-15
+Gabriel Wainer,Discrete-Event Modeling and Simulation: A Practitioner's Approach,416,2009,2020-10-15
+Gabriel Wainer,Discrete-event modeling and simulation: a practitioner's approach,416,2017,2020-10-15
+Adrian D. C. Chan,Wavelet distance measure for person identification using electrocardiograms,410,2008,2020-10-15
+Halim Yanikomeroglu,3-D placement of an unmanned aerial vehicle base station (UAV-BS) for energy-efficient maximal coverage,403,2017,2020-10-15
+Dorina Petriu,The stochastic rendezvous network model for performance of synchronous client-server-like distributed software,385,1995,2020-10-15
+Murray Woodside,The stochastic rendezvous network model for performance of synchronous client-server-like distributed software,385,1995,2020-10-15
+Shikharesh Majumdar,The stochastic rendezvous network model for performance of synchronous client-server-like distributed software,385,1995,2020-10-15
+Yvan Labiche,A UML-based approach to system testing,382,2002,2020-10-15
+Adrian D. C. Chan,Continuous myoelectric control for powered prostheses using hidden Markov models,370,2004,2020-10-15
+F. Richard Yu,Energy-efficient resource allocation for heterogeneous cognitive radio networks with femtocells,367,2012,2020-10-15
+F. Richard Yu,"In-band full-duplex relaying: A survey, research issues and challenges",367,2015,2020-10-15
+F. Richard Yu,A distributed consensus-based cooperative spectrum-sensing scheme in cognitive radios,365,2009,2020-10-15
+Halim Yanikomeroglu,Enhancing cell-edge performance: a downlink dynamic interference avoidance scheme with inter-cell coordination,348,2010,2020-10-15
+John Chinneck,Linear programming with interval coefficients,347,2000,2020-10-15
+Yvan Labiche,Towards the Reverse Engineering of UML Sequence Diagrams.,344,2003,2020-10-15
+Ioannis Lambadaris,An overview of pricing concepts for broadband IP networks,333,2000,2020-10-15
+Rafik Goubran,Robust voice activity detection using higher-order statistics in the LPC residual domain,331,2001,2020-10-15
+F. Richard Yu,Mobility-based predictive call admission control and bandwidth reservation in wireless cellular networks,331,2001,2020-10-15
+John Chinneck,Practical optimization: a gentle introduction,331,2006,2020-10-15
+Peter X. Liu,Identification methods for Hammerstein nonlinear systems,323,2011,2020-10-15
+Peter X. Liu,Iterative solutions of the generalized Sylvester matrix equations by using the hierarchical identification principle,320,2008,2020-10-15
+Halim Yanikomeroglu,The new frontier in RAN heterogeneity: Multi-tier drone-cells,314,2016,2020-10-15
+Halim Yanikomeroglu,Relayer selection strategies in cellular networks with peer-to-peer relaying,308,2003,2020-10-15
+Murray Woodside,Evaluating the scalability of distributed systems,299,2000,2020-10-15
+Andy Adler,"Chest electrical impedance tomography examination, data analysis, terminology, clinical use and recommendations: consensus statement of the TRanslational EIT developmeNt stuDy …",289,2017,2020-10-15
+F. Richard Yu,Optimal joint session admission control in integrated WLAN and CDMA cellular networks with vertical handoff,285,2006,2020-10-15
+F. Richard Yu,A survey of security challenges in cognitive radio networks: Solutions and future research directions,283,2012,2020-10-15
+Halim Yanikomeroglu,Cooperative relaying in multi-antenna fixed relay networks,282,2007,2020-10-15
+F. Richard Yu,Computation offloading and resource allocation in wireless cellular networks with mobile edge computing,281,2017,2020-10-15
+Amir Banihashemi,On implementation of min-sum algorithm and its modifications for decoding low-density parity-check (LDPC) codes,276,2005,2020-10-15
+Dorina Petriu,Sensor-based information appliances,276,2000,2020-10-15
+Halim Yanikomeroglu,A new formula for the BER of binary modulations with dual-branch selection over generalized-K composite fading channels,275,2011,2020-10-15
+Adrian D. C. Chan,Resolving the limb position effect in myoelectric pattern recognition,274,2011,2020-10-15
+Andy Adler,Electrical impedance tomography: regularized imaging and contrast detection,274,1996,2020-10-15
+Thomas Kunz,Operating systems for wireless sensor networks: A survey,272,2011,2020-10-15
+Peter X. Liu,When the Smart Grid Meets Energy-Efficient Communications: Green Wireless Cellular Networks Powered by the Smart Grid,270,2012,2020-10-15
+F. Richard Yu,When the smart grid meets energy-efficient communications: Green wireless cellular networks powered by the smart grid,270,2012,2020-10-15
+Amir Banihashemi,A heuristic search for good low-density parity-check codes at short block lengths,266,2001,2020-10-15
+Yvan Labiche,A UML-based approach to system testing,266,2001,2020-10-15
+Ioannis Lambadaris,Modeling and simulation of self-similar variable bit rate compressed video: A unified approach,263,1995,2020-10-15
+Changcheng Huang,Modeling and simulation of self-similar variable bit rate compressed video: a unified approach,263,1995,2020-10-15
+Chung-Horng Lung,Smart home: Integrating internet of things with web services and cloud computing,263,2013,2020-10-15
+Yvan Labiche,Impact analysis and change management of UML models,261,2003,2020-10-15
+John Chinneck,Locating minimal infeasible constraint sets in linear programs,261,1991,2020-10-15
+Thomas Kunz,Quality of service routing in ad-hoc networks using OLSR,257,2003,2020-10-15
+Murray Woodside,Performance by unified model analysis (PUMA),256,2005,2020-10-15
+Dorina Petriu,Performance by unified model analysis (PUMA),256,2005,2020-10-15
+F. Richard Yu,Prediction-Based Topology Control and Routing in Cognitive Radio Mobile Ad Hoc Networks,251,2010,2020-10-15
+Halim Yanikomeroglu,Range extension without capacity penalty in cellular networks with digital fixed relays,247,2004,2020-10-15
+Peter X. Liu,Robust sliding mode control for robot manipulators,242,2011,2020-10-15
+Gabriel Wainer,CD++: a toolkit to develop DEVS models,241,2002,2020-10-15
+Amir Banihashemi,On Construction of Rate-Compatible Low-Density Parity-Check Codes,237,2004,2020-10-15
+Andy Adler,A reevaluation of the validity of unrestrained plethysmography in mice,237,2002,2020-10-15
+F. Richard Yu,Cross-layer design for TCP performance improvement in cognitive radio networks,236,2010,2020-10-15
+Amir Banihashemi,Improved progressive-edge-growth (PEG) construction of irregular LDPC codes,234,2004,2020-10-15
+Mohamed Ibnkahla,Applications of neural networks to digital communications–a survey,234,2000,2020-10-15
+F. Richard Yu,When big data meets software-defined networking: SDN for big data and big data for SDN,233,2016,2020-10-15
+Shikharesh Majumdar,Scheduling in multiprogrammed parallel systems,231,1988,2020-10-15
+F. Richard Yu,Dynamic resource allocation for heterogeneous services in cognitive radio networks with imperfect channel sensing,231,2011,2020-10-15
+Peter X. Liu,Gradient based and least-squares based iterative identification methods for OE and OEMA systems,231,2010,2020-10-15
+Marc St-Hilaire,Early detection of DDoS attacks against SDN controllers,230,2015,2020-10-15
+Halim Yanikomeroglu,On the number and 3D placement of drone base stations in wireless cellular networks,229,2016,2020-10-15
+Peter X. Liu,Partially coupled stochastic gradient identification methods for non-uniformly sampled systems,227,2010,2020-10-15
+Dorina Petriu,Applying the UML performance profile: Graph grammar-based derivation of LQN models from UML specifications,224,2002,2020-10-15
+Changcheng Huang,Building reliable MPLS networks using a path protection mechanism,221,2002,2020-10-15
+Halim Yanikomeroglu,"Access strategies for spectrum sharing in fading environment: overlay, underlay, and mixed",221,2010,2020-10-15
+John Chinneck,Feasibility and Infeasibility in Optimization: Algorithms and Computational Methods,220,2008,2020-10-15
+Andy Adler,"The late, but not early, asthmatic response is dependent on IL-5 and correlates with eosinophil infiltration",218,1999,2020-10-15
+Peter X. Liu,Parameter estimation with scarce measurements,217,2011,2020-10-15
+Murray Woodside,Enhanced modeling and solution of layered queueing networks,216,2008,2020-10-15
+Halim Yanikomeroglu,An overview of radio resource management in relay-enhanced OFDMA-based networks,214,2010,2020-10-15
+Peter X. Liu,Auxiliary model based multi-innovation extended stochastic gradient parameter estimation with colored measurement noises,212,2009,2020-10-15
+F. Richard Yu,Information-centric network function virtualization over 5G mobile wireless networks,211,2015,2020-10-15
+Mohamed Ibnkahla,High-speed satellite mobile communications: technologies and challenges,211,2004,2020-10-15
+F. Richard Yu,Communication systems for grid integration of renewable energy resources,210,2011,2020-10-15
+Peter X. Liu,Multiinnovation least-squares identification for system modeling,209,2010,2020-10-15
+Ian Marsland,Threshold selection for SNR-based selective digital relaying in cooperative wireless networks,209,2008,2020-10-15
+Halim Yanikomeroglu,Threshold selection for SNR-based selective digital relaying in cooperative wireless networks,209,2008,2020-10-15
+Peter X. Liu,Impact of communication delays on secondary frequency control in an islanded microgrid,207,2015,2020-10-15
+F. Richard Yu,A FCM-Based peer grouping scheme for node failure recovery in wireless P2P file sharing,206,2009,2020-10-15
+Yvan Labiche,The impact of UML documentation on software maintenance: An experimental evaluation,205,2006,2020-10-15
+F. Richard Yu,Distributed denial of service attacks in software-defined networking with cloud computing,203,2015,2020-10-15
+Andy Adler,Unrestrained plethysmography is an unreliable measure of airway responsiveness in BALB/c and C57BL/6 mice,203,2004,2020-10-15
+Changcheng Huang,Framework for MPLS-based Recovery draft-ietf-mpls-recovery-frmwrk-04. txt,200,2002,2020-10-15
+Halim Yanikomeroglu,FSO-based vertical backhaul/fronthaul framework for 5G+ wireless networks,199,2018,2020-10-15
+Halim Yanikomeroglu,On the approximation of the generalized-Κ distribution by a gamma distribution for modeling composite fading channels,198,2010,2020-10-15
+Murray Woodside,Performance modeling from software components,197,2004,2020-10-15
+Ashraf Matrawy,Smart wireless sensor network management based on software-defined networking,196,2014,2020-10-15
+Andy Adler,Vulnerabilities in biometric encryption systems,195,2005,2020-10-15
+Halim Yanikomeroglu,3-D placement of an unmanned aerial vehicle base station for maximum coverage of users with different QoS requirements,191,2017,2020-10-15
+Sreeraman Rajan,Method and apparatus for adaptive line enhancement in Coriolis mass flow meter measurement,190,1996,2020-10-15
+Peter X. Liu,Delay-dependent stability criteria of teleoperation systems with asymmetric time-varying delays,186,2010,2020-10-15
+Halim Yanikomeroglu,Coverage enhancement through two-hop relaying in cellular radio systems,186,2002,2020-10-15
+Andy Adler,Monitoring changes in lung air and liquid volumes with electrical impedance tomography,186,1997,2020-10-15
+Chung-Horng Lung,Using hierarchical agglomerative clustering in wireless sensor networks: An energy-efficient and flexible approach,184,2010,2020-10-15
+F. Richard Yu,Adaptive power allocation schemes for spectrum sharing in interference-alignment-based cognitive radio networks,183,2015,2020-10-15
+Dorina Petriu,A dependability profile within MARTE,181,2011,2020-10-15
+F. Richard Yu,Opportunistic communications in interference alignment networks with wireless power transfer,181,2015,2020-10-15
+Rafik Goubran,Speech quality prediction in VoIP using the extended E-model,179,2003,2020-10-15
+F. Richard Yu,Joint computation offloading and interference management in wireless cellular networks with mobile edge computing,176,2017,2020-10-15
+F. Richard Yu,"Industrial internet: A survey on the enabling technologies, applications, and challenges",175,2017,2020-10-15
+Peter X. Liu,Hierarchical Least Squares Identification for Linear SISO Systems with Dual-Rate Sampled-Data,174,2011,2020-10-15
+F. Richard Yu,Distributed optimal relay selection in wireless cooperative networks with finite-state Markov channels,174,2010,2020-10-15
+Yvan Labiche,A systematic review of transformation approaches between user requirements and analysis models,171,2011,2020-10-15
+Rafik Goubran,Integration of smart home technologies in a health monitoring system for the elderly,171,2007,2020-10-15
+Andy Adler,In Vivo Impedance Imaging With Total Variation Regularization,169,2009,2020-10-15
+F. Richard Yu,Software-defined networks with mobile edge computing and caching for smart cities: A big data deep reinforcement learning approach,168,2017,2020-10-15
+F. Richard Yu,Caching UAV assisted secure transmission in hyper-dense networks based on interference alignment,166,2018,2020-10-15
+Andy Adler,"Whither lung EIT: where are we, where do we want to go and what do we need to get there?",165,2012,2020-10-15
+Murray Woodside,Performance model estimation and tracking using optimal filters,165,2008,2020-10-15
+F. Richard Yu,Security enhancements for mobile ad hoc networks with trust management using uncertain reasoning,165,2014,2020-10-15
+Halim Yanikomeroglu,Fixed and mobile relaying technologies for cellular networks,164,2002,2020-10-15
+Andy Adler,Four-dimensional electrical capacitance tomography imaging using experimental data,164,2009,2020-10-15
+Peter X. Liu,Robust control of four-rotor unmanned aerial vehicle with disturbance uncertainty,162,2015,2020-10-15
+Peter X. Liu,Parameter identification and intersample output estimation for dual-rate systems,162,2008,2020-10-15
+Halim Yanikomeroglu,Backhaul-aware robust 3D drone placement in 5G+ wireless networks,162,2017,2020-10-15
+Marc St-Hilaire,Optimal model for the controller placement problem in software defined networks,161,2014,2020-10-15
+F. Richard Yu,Biologically inspired consensus-based spectrum sensing in mobile ad hoc networks with cognitive radios,160,2010,2020-10-15
+Andy Adler,Sample images can be independently restored from face recognition templates,160,2003,2020-10-15
+Babak Esfandiari,On how agents make friends: Mechanisms for trust acquisition,159,2001,2020-10-15
+F. Richard Yu,Big data analytics in intelligent transportation systems: A survey,159,2018,2020-10-15
+F. Richard Yu,Defense against spectrum sensing data falsification attacks in mobile ad hoc networks with cognitive radios,158,2009,2020-10-15
+Yvan Labiche,An investigation of graph-based class integration test order strategies,157,2003,2020-10-15
+F. Richard Yu,Computing resource allocation in three-tier IoT fog networks: A joint optimization approach combining Stackelberg game and matching,157,2017,2020-10-15
+F. Richard Yu,Cross-layer handoff design in MIMO-enabled WLANs for communication-based train control (CBTC) systems,156,2012,2020-10-15
+Yvan Labiche,Automating regression test selection based on UML designs,155,2009,2020-10-15
+Yvan Labiche,An experimental investigation of formality in UML-based development,154,2005,2020-10-15
+Mohamed Ibnkahla,Cognition in wireless sensor networks: A perspective,153,2010,2020-10-15
+F. Richard Yu,A survey of green information-centric networking: Research issues and challenges,153,2015,2020-10-15
+Shikharesh Majumdar,A toolset for performance engineering and software design of client-server systems,152,1995,2020-10-15
+Murray Woodside,A toolset for performance engineering and software design of client-server systems,152,1995,2020-10-15
+Dorina Petriu,A toolset for performance engineering and software design of client-server systems,152,1995,2020-10-15
+Yvan Labiche,Automating impact analysis and regression test selection based on UML designs,152,2002,2020-10-15
+Mohamed Ibnkahla,Signal processing for mobile communications handbook,151,2004,2020-10-15
+Halim Yanikomeroglu,Interference avoidance with dynamic inter-cell coordination for downlink LTE system,151,2009,2020-10-15
+F. Richard Yu,UAV trajectory optimization for data offloading at the edge of multiple cells,151,2018,2020-10-15
+Andy Adler,Internet of Things: Remote patient monitoring using web services and cloud computing,151,2014,2020-10-15
+F. Richard Yu,Big data analytics in mobile cellular networks,151,2016,2020-10-15
+Chung-Horng Lung,Internet of Things: Remote patient monitoring using web services and cloud computing,151,2014,2020-10-15
+Gabriel Wainer,Application of the Cell-DEVS paradigm for cell spaces modelling and simulation,150,2001,2020-10-15
+Samuel A Ajila,Empirical study of the effects of open source adoption on software development economics,149,2007,2020-10-15
+Adrian D. C. Chan,Myoelectric control development toolbox,149,2007,2020-10-15
+Halim Yanikomeroglu,On the feasibility of wireless shadowing correlation models,148,2010,2020-10-15
+Yvan Labiche,Automated impact analysis of UML models,147,2006,2020-10-15
+Yvan Labiche,Assessing and improving state-based class testing: A series of experiments,147,2004,2020-10-15
+Peter X. Liu,Backstepping control for nonlinear systems with time delays and applications to chemical reactor systems,145,2009,2020-10-15
+Amir Banihashemi,Iterative layered space-time receivers for single-carrier transmission over severe time-dispersive channels,145,2004,2020-10-15
+Amir Banihashemi,Iterative layered space-time receivers for single-carrier transmission over severe time-dispersive channels,145,2004,2020-10-15
+F. Richard Yu,Cross-layer optimal connection admission control for variable bit rate multimedia traffic in packet wireless CDMA networks,144,2006,2020-10-15
+Andy Adler,Impedance imaging of lung ventilation: do we need to account for chest expansion?,144,1996,2020-10-15
+Halim Yanikomeroglu,Fairness-aware radio resource management in downlink OFDMA cellular relay networks,144,2010,2020-10-15
+F. Richard Yu,Deep-reinforcement-learning-based optimization for cache-enabled opportunistic interference alignment wireless networks,143,2017,2020-10-15
+F. Richard Yu,"Interference alignment and its applications: A survey, research issues, and challenges",142,2016,2020-10-15
+Chung-Horng Lung,A force-reflection algorithm for improved transparency in bilateral teleoperation with communication delay,141,2007,2020-10-15
+Peter X. Liu,A force-reflection algorithm for improved transparency in bilateral teleoperation with communication delay,141,2007,2020-10-15
+Andy Adler,Intra-and inter-operator repeatability of myocardial blood flow and myocardial flow reserve measurements using rubidium-82 pet and a highly automated analysis program,139,2010,2020-10-15
+Halim Yanikomeroglu,Opportunities and challenges in OFDMA-based cellular relay networks: A radio resource management perspective,138,2010,2020-10-15
+Shikharesh Majumdar,A synthetic workload generation technique for stress testing session-based systems,137,2006,2020-10-15
+Rafik Goubran,Building an application framework for speech and pen input integration in multimodal learning interfaces,136,1996,2020-10-15
+Rafik Goubran,Packet loss compensation method using injection of spectrally shaped noise,135,2006,2020-10-15
+Yvan Labiche,A systematic review of state-based test tools,134,2015,2020-10-15
+F. Richard Yu,Wireless virtualization for next generation mobile cellular networks,134,2015,2020-10-15
+Yvan Labiche,Stress testing real-time systems with genetic algorithms,134,2005,2020-10-15
+Richard Dansereau,Single-channel speech separation using soft mask filtering,133,2007,2020-10-15
+Mohamed Ibnkahla,Multiband spectrum access: Great promises for future cognitive radio networks,132,2014,2020-10-15
+Murray Woodside,An intermediate metamodel with scenarios and resources for generating performance models from UML designs,131,2007,2020-10-15
+Halim Yanikomeroglu,Performance of selection relaying and cooperative diversity,131,2009,2020-10-15
+F. Richard Yu,A survey of machine learning techniques applied to software defined networking (SDN): Research issues and challenges,130,2018,2020-10-15
+Adrian D. C. Chan,Examining the adverse effects of limb position on pattern recognition based myoelectric control,128,2010,2020-10-15
+Murray Woodside,Performance model driven QoS guarantees and optimization in clouds,127,2009,2020-10-15
+John Chinneck,Performance model driven QoS guarantees and optimization in clouds,127,2009,2020-10-15
+Yvan Labiche,Solving the class responsibility assignment problem in object-oriented analysis with multi-objective genetic algorithms,126,2010,2020-10-15
+Ioannis Lambadaris,MPEG4 traffic modeling using the transform expand sample methodology,125,2002,2020-10-15
+Changcheng Huang,MPEG4 traffic modeling using the transform expand sample methodology,125,2002,2020-10-15
+Yvan Labiche,Using simulation to empirically investigate test coverage criteria based on statechart,125,2004,2020-10-15
+Murray Woodside,Software performance models from system scenarios in use case maps,125,2002,2020-10-15
+Ashraf Matrawy,MPEG4 traffic modeling using the transform expand sample methodology,125,2002,2020-10-15
+F. Richard Yu,Physical layer security issues in interference-alignment-based wireless networks,125,2016,2020-10-15
+F. Richard Yu,UAV-assisted emergency networks in disasters,122,2019,2020-10-15
+Amir Banihashemi,Efficient algorithm for finding dominant trapping sets of LDPC codes,122,2012,2020-10-15
+Chung-Horng Lung,On the model-based approach to nonlinear networked control systems,121,2008,2020-10-15
+Yvan Labiche,Facilitating the transition from use case models to analysis models: Approach and experiments,121,2013,2020-10-15
+Peter X. Liu,On the model-based approach to nonlinear networked control systems,121,2008,2020-10-15
+Rafik Goubran,A generalized proportionate variable step-size algorithm for fast changing acoustic environments,120,2004,2020-10-15
+Dorina Petriu,Architecture-based performance analysis applied to a telecommunication system,120,2000,2020-10-15
+F. Richard Yu,User scheduling and resource allocation in HetNets with hybrid energy supply: An actor-critic reinforcement learning approach,120,2017,2020-10-15
+John Chinneck,A general examination scheduling system,118,1994,2020-10-15
+Peter X. Liu,Observer-based fuzzy adaptive output-feedback control of stochastic nonlinear multiple time-delay systems,118,2017,2020-10-15
+Yvan Labiche,Using genetic algorithms and coupling measures to devise optimal integration test orders,117,2002,2020-10-15
+Shikharesh Majumdar,Software bottlenecking in client-server systems and rendezvous networks,117,1995,2020-10-15
+Dorina Petriu,Software bottlenecking in client-server systems and rendezvous networks,117,1995,2020-10-15
+F. Richard Yu,Interference-aware energy-efficient resource allocation for OFDMA-based heterogeneous networks with incomplete channel state information,116,2014,2020-10-15
+Halim Yanikomeroglu,Interference-aware energy-efficient resource allocation for OFDMA-based heterogeneous networks with incomplete channel state information,116,2014,2020-10-15
+Peter X. Liu,Robust fuzzy adaptive tracking control for nonaffine stochastic nonlinear switching systems,116,2018,2020-10-15
+Peter X. Liu,Denial-of-Service (DoS) attacks on load frequency control in smart grids,116,2013,2020-10-15
+Dorina Petriu,XSLT transformation from UML models to LQN performance models,116,2002,2020-10-15
+Gabriel Wainer,CD++: a toolkit to define discrete-event models,116,2002,2020-10-15
+Gabriel Wainer,Discrete-event modeling and simulation: theory and applications,115,2016,2020-10-15
+Amir Banihashemi,Improving belief propagation on graphs with cycles,115,2004,2020-10-15
+F. Richard Yu,A game-theoretical scheme in the smart grid with demand-side management: Towards a smart cyber-physical power infrastructure,114,2013,2020-10-15
+Amir Banihashemi,Decoding low-density parity-check codes with probabilistic schedule,114,2001,2020-10-15
+Babak Esfandiari,A Case-Based Reasoning Approach to Imitating RoboCup Players.,114,2008,2020-10-15
+Mohamed Ibnkahla,Efficient deployment of wireless sensor networks targeting environment monitoring applications,113,2013,2020-10-15
+Ramy H. Gohary,Noncoherent MIMO communication: Grassmannian constellations and efficient detection,112,2009,2020-10-15
+F. Richard Yu,Wireless energy harvesting in interference alignment networks,111,2015,2020-10-15
+Chung-Horng Lung,Optimal combined intrusion detection and biometric-based continuous authentication in high security mobile ad hoc networks,111,2009,2020-10-15
+F. Richard Yu,Optimal combined intrusion detection and biometric-based continuous authentication in high security mobile ad hoc networks,111,2009,2020-10-15
+Mohamed Ibnkahla,"Neural network modeling and identification of nonlinear channels with memory: algorithms, applications, and analytic models",111,1998,2020-10-15
+Andy Adler,A neural network image reconstruction technique for electrical impedance tomography,111,1994,2020-10-15
+Halim Yanikomeroglu,HetHetNets: Heterogeneous traffic distribution in heterogeneous wireless cellular networks,111,2015,2020-10-15
+Ioannis Lambadaris,Fractional Lévy motion and its application to network traffic modeling,110,2002,2020-10-15
+Andy Adler,Objective selection of hyperparameter for EIT,110,2006,2020-10-15
+Thomas Kunz,Performance evaluation of IoT protocols under a constrained wireless access network,110,2016,2020-10-15
+Sreeraman Rajan,Direction of arrival estimation using directive antennas in uniform circular arrays,110,2014,2020-10-15
+Peter X. Liu,Adaptive Fuzzy Decentralized Control for A Class of Strong Interconnected Nonlinear Systems with Unmodeled Dynamics,109,2018,2020-10-15
+Gabriel Wainer,Timed Cell-DEVS: modeling and simulation of cell spaces,109,2001,2020-10-15
+Halim Yanikomeroglu,Cell switch off technique combined with coordinated multi-point (CoMP) transmission for energy efficiency in beyond-LTE cellular networks,109,2012,2020-10-15
+F. Richard Yu,Cell switch off technique combined with coordinated multi-point (CoMP) transmission for energy efficiency in beyond-LTE cellular networks,109,2012,2020-10-15
+Amir Banihashemi,Low-density parity-check lattices: Construction and decoding analysis,109,2006,2020-10-15
+F. Richard Yu,Distributed combined authentication and intrusion detection with data fusion in high-security mobile ad hoc networks,107,2011,2020-10-15
+Peter X. Liu,Distributed Combined Authentication and Intrusion Detection With Data Fusion in High-Security Mobile Ad Hoc Networks,107,2011,2020-10-15
+Amir Banihashemi,"A 0.18-$ muhbox m $ CMOS Analog Min-Sum Iterative Decoder for a (32, 8) Low-Density Parity-Check (LDPC) Code",107,2006,2020-10-15
+Andy Adler,Interpreting Penh in mice,106,2003,2020-10-15
+Halim Yanikomeroglu,Utility-based adaptive radio resource allocation in OFDM wireless networks with traffic prioritization,106,2009,2020-10-15
+Andy Adler,Images can be regenerated from quantized biometric match score data,106,2004,2020-10-15
+Peter X. Liu,Adaptive neural output-feedback control for a class of nonlower triangular nonlinear systems with unmodeled dynamics,106,2018,2020-10-15
+Peter X. Liu,Adaptive intelligent control of nonaffine nonlinear time-delay systems with dynamic uncertainties,105,2017,2020-10-15
+Thomas Kunz,MAODV implementation for NS-2.26,105,2004,2020-10-15
+Shikharesh Majumdar,Performance analysis of distributed server systems,105,1996,2020-10-15
+Dorina Petriu,Performance analysis of distributed server systems,105,1996,2020-10-15
+Murray Woodside,Performance analysis of distributed server systems,105,1996,2020-10-15
+F. Richard Yu,Optimal Transceiver Design for SWIPT in-User MIMO Interference Channels,105,2015,2020-10-15
+Mohamed Ibnkahla,A survey of networking challenges and routing protocols in smart grids,104,2013,2020-10-15
+Chung-Horng Lung,An approach to software architecture analysis for evolution and reusability,103,1997,2020-10-15
+Andy Adler,Adjacent stimulation and measurement patterns considered harmful,102,2011,2020-10-15
+F. Richard Yu,Green communications and networking,102,2012,2020-10-15
+Changcheng Huang,A novel fault detection and localization scheme for mesh all-optical networks based on monitoring-cycles,102,2006,2020-10-15
+Peter X. Liu,An embedded fuzzy controller for a behavior-based mobile robot with guaranteed performance,102,2004,2020-10-15
+Amir Banihashemi,Decoding low-density parity-check codes with probabilistic schedule,101,2001,2020-10-15
+Yuu Ono,Development of the line-focus-beam ultrasonic material characterization system,100,2002,2020-10-15
+Yvan Labiche,Using machine learning to support debugging with tarantula,100,2007,2020-10-15
+Chung-Horng Lung,"Applications of clustering techniques to software partitioning, recovery and restructuring",100,2004,2020-10-15
+F. Richard Yu,"Integrated blockchain and edge computing systems: A survey, some research issues and challenges",99,2019,2020-10-15
+Andy Adler,Imaging of conductivity changes and electrode movement in EIT,99,2006,2020-10-15
+Sreeraman Rajan,"Oscillometric blood pressure estimation: past, present, and future",99,2015,2020-10-15
+Halim Yanikomeroglu,A theoretical characterization of the multihop wireless communications channel with diversity,99,2001,2020-10-15
+Adrian D. C. Chan,Continuous multifunction myoelectric control using pattern recognition,99,2003,2020-10-15
+Rafik Goubran,Privacy versus autonomy: a tradeoff model for smart home monitoring technologies,98,2011,2020-10-15
+Sreeraman Rajan,On the cyclostationarity of OFDM and single carrier linearly digitally modulated signals in time dispersive channels: Theoretical developments and application,98,2010,2020-10-15
+Peter X. Liu,Visual gesture recognition for human-machine interface of robot teleoperation,98,2003,2020-10-15
+Dorina Petriu,Dependability modeling and analysis of software systems specified with UML,98,2012,2020-10-15
+F. Richard Yu,A mean field game theoretic approach for security enhancements in mobile ad hoc networks,97,2014,2020-10-15
+F. Richard Yu,Green cognitive mobile networks with small cells for multimedia communications in the smart grid environment,97,2014,2020-10-15
+F. Richard Yu,Fog vehicular computing: Augmentation of fog computing using vehicular cloud computing,97,2017,2020-10-15
+Thomas Kunz,A mutual network synchronization method for wireless ad hoc and sensor networks,97,2008,2020-10-15
+Leila Mostaço-Guidolin,Collagen morphology and texture analysis: from statistics to classification,97,2013,2020-10-15
+Andy Adler,Validation of the Empatica E4 wristband,96,2016,2020-10-15
+Halim Yanikomeroglu,Airborne communication networks: A survey,94,2018,2020-10-15
+John Chinneck,Fast heuristics for the maximum feasible subsystem problem,94,2001,2020-10-15
+Murray Woodside,A business driven cloud optimization architecture,94,2010,2020-10-15
+Rafik Goubran,Limitations of handsfree acoustic echo cancellers due to nonlinear loudspeaker distortion and enclosure vibration effects,94,1995,2020-10-15
+Ioannis Lambadaris,Empirical study of buffer management scheme for DiffServ Assured Forwarding PHB,94,2000,2020-10-15
+Yvan Labiche,Control flow analysis of UML 2.0 sequence diagrams,93,2005,2020-10-15
+Adrian D. C. Chan,Hidden Markov model classification of myoelectric signals in speech,93,2002,2020-10-15
+F. Richard Yu,A survey of blockchain technology applied to smart cities: Research issues and challenges,93,2019,2020-10-15
+Mostafa Taha,Differential fault intensity analysis,92,2014,2020-10-15
+James R Green,A review of network-based approaches to drug repositioning,92,2018,2020-10-15
+Yvan Labiche,A measurement framework for object-oriented software testability,92,2005,2020-10-15
+Mohamed Ibnkahla,Single-strand scissions induced in circular and linear λ DNA by the presence of dithiothreitol and other reducing agents,91,1967,2020-10-15
+Dorina Petriu,Annotating UML models with non-functional properties for quantitative analysis,91,2005,2020-10-15
+Murray Woodside,Annotating UML models with non-functional properties for quantitative analysis,91,2005,2020-10-15
+Sreeraman Rajan,Efficient approximations for the arctangent function,91,2006,2020-10-15
+Babak Esfandiari,Management applications of the web service offerings language (WSOL),91,2005,2020-10-15
+Adrian D. C. Chan,A global engineer for the global community,91,2009,2020-10-15
+Murray Woodside,Hierarchical model-based autonomic control of software systems,91,2005,2020-10-15
+F. Richard Yu,A cooperative spectrum sensing consensus scheme in cognitive radios,90,2009,2020-10-15
+F. Richard Yu,Interference alignment based on antenna selection with imperfect channel state information in cognitive radio networks,90,2015,2020-10-15
+James R Green,Computational methods for predicting protein–protein interactions,90,2008,2020-10-15
+Yvan Labiche,Investigating the use of analysis contracts to improve the testability of object‐oriented code,90,2003,2020-10-15
+Amir Banihashemi,Efficient algorithm for finding dominant trapping sets of LDPC codes,90,2012,2020-10-15
+Dorina Petriu,From UML descriptions of high-level software architectures to LQN performance models,90,1999,2020-10-15
+Sreeraman Rajan,Cyclostationarity-based robust algorithms for QAM signal identification,90,2011,2020-10-15
+Murray Woodside,Tracking time-varying parameters in software systems with extended Kalman filters.,90,2005,2020-10-15
+Rafik Goubran,Array optimization applied in the near field of a microphone array,89,2000,2020-10-15
+F. Richard Yu,Energy-efficient spectrum sharing and power allocation in cognitive radio femtocell networks,89,2012,2020-10-15
+Peter X. Liu,Adaptive Neural Control of Nonlinear Systems With Unknown Control Directions and Input Dead-Zone,88,2018,2020-10-15
+F. Richard Yu,Cross-layer design for video transmissions in metro passenger information systems,88,2011,2020-10-15
+Thomas Kunz,Survey on mobile ad hoc network routing protocols and cross-layer design,87,2004,2020-10-15
+F. Richard Yu,Resource allocation for information-centric virtualized heterogeneous networks with in-network caching and mobile edge computing,87,2017,2020-10-15
+Mostafa Taha,VANET-DSRC protocol for reliable broadcasting of life safety messages,87,2007,2020-10-15
+Rafik Goubran,Assessment of effects of packet loss on speech quality in VoIP,87,2003,2020-10-15
+Gabriel Wainer,N-dimensional Cell-DEVS models,87,2002,2020-10-15
+Yvan Labiche,A use case modeling approach to facilitate the transition towards analysis models: Concepts and empirical evaluation,86,2009,2020-10-15
+F. Richard Yu,"Exploiting interference for energy harvesting: A survey, research issues, and challenges",86,2017,2020-10-15
+Murray Woodside,Tutorial introduction to layered modeling of software performance,86,2002,2020-10-15
+Mohamed Ibnkahla,Multiband spectrum sensing and resource allocation for IoT in cognitive 5G networks,86,2017,2020-10-15
+F. Richard Yu,"Communications, caching, and computing oriented small cell networks with interference alignment",86,2016,2020-10-15
+Rafik Goubran,Robust near-field adaptive beamforming with distance discrimination,86,2004,2020-10-15
+Ioannis Lambadaris,Fast simulation for self-similar traffic in ATM networks,85,1995,2020-10-15
+F. Richard Yu,Software-defined device-to-device (D2D) communications in virtual wireless networks with imperfect network state information (NSI),85,2015,2020-10-15
+Yvan Labiche,Traffic-aware stress testing of distributed systems based on UML models,85,2006,2020-10-15
+Halim Yanikomeroglu,Method and system for capacity and coverage enhancement in wireless networks with relays,85,2013,2020-10-15
+Amir Banihashemi,Dynamics and performance analysis of analog iterative decoding for low-density parity-check (LDPC) codes,85,2006,2020-10-15
+Changcheng Huang,Fast simulation for self-similar traffic in ATM networks,85,1995,2020-10-15
+Thomas Kunz,Multicasting in ad-hoc networks: Comparing MAODV and ODMRP,85,2001,2020-10-15
+F. Richard Yu,A game-theoretical decision-making scheme for electricity retailers in the smart grid with demand-side management,84,2011,2020-10-15
+Amir Banihashemi,Lowering the error floor of LDPC codes using cyclic liftings,84,2011,2020-10-15
+Peter X. Liu,A game-theoretical decision-making scheme for electricity retailers in the smart grid with demand-side management,84,2011,2020-10-15
+Yvan Labiche,Testing levels for object-oriented software,84,2000,2020-10-15
+Thomas Kunz,Pro-active route maintenance in DSR,84,2002,2020-10-15
+Thomas Kunz,Increasing packet delivery ratio in DSR by link prediction,84,2003,2020-10-15
+F. Richard Yu,Exploiting adversarial jamming signals for energy harvesting in interference networks,84,2016,2020-10-15
+F. Richard Yu,Optimization or alignment: Secure primary transmission assisted by secondary networks,83,2018,2020-10-15
+Adrian D. C. Chan,Surface electromyographic signals using dry electrodes,83,2011,2020-10-15
+Adrian D. C. Chan,Myo-electric signals to augment speech recognition,83,2001,2020-10-15
+Peter X. Liu,Structural Results for Combined Continuous User Authentication and Intrusion Detection in High Security Mobile Ad-Hoc Networks,83,2011,2020-10-15
+F. Richard Yu,"Directional Sensor Placement with Optimal Sensing Range, Field of View and Orientation",83,2008,2020-10-15
+F. Richard Yu,Optimal cooperative internetwork spectrum sharing for cognitive radio systems with spectrum pooling,83,2010,2020-10-15
+F. Richard Yu,Structural results for combined continuous user authentication and intrusion detection in high security mobile ad-hoc networks,83,2011,2020-10-15
+Babak Esfandiari,Management applications of the web service offerings language (wsol),83,2003,2020-10-15
+Chung-Horng Lung,A control scheme for stable force-reflecting teleoperation over IP networks,83,2006,2020-10-15
+F. Richard Yu,Joint topology control and authentication design in mobile ad hoc networks with cooperative communications,83,2012,2020-10-15
+F. Richard Yu,Medium access control for unmanned aerial vehicle (UAV) ad-hoc networks with full-duplex radios and multipacket reception capability,83,2012,2020-10-15
+Peter X. Liu,A control scheme for stable force-reflecting teleoperation over IP networks,83,2006,2020-10-15
+Marc St-Hilaire,"Directional sensor placement with optimal sensing range, field of view and orientation",83,2010,2020-10-15
+Yvan Labiche,"Assessing, comparing, and combining state machine-based testing and structural testing: A series of experiments",82,2010,2020-10-15
+Halim Yanikomeroglu,A survey of opportunities for free space optics in next generation cellular networks,82,2011,2020-10-15
+Marc St-Hilaire,A survey of opportunities for free space optics in next generation cellular networks,82,2011,2020-10-15
+Andy Adler,Electrical impedance tomography: Tissue properties to image measures,82,2017,2020-10-15
+Peter X. Liu,Robust adaptive fuzzy output feedback control system for robot manipulators,82,2011,2020-10-15
+Andy Adler,Temporal image reconstruction in electrical impedance tomography,82,2007,2020-10-15
+Peter X. Liu,Improving haptic feedback fidelity in wave-variable-based teleoperation orientated to telemedical applications,82,2009,2020-10-15
+Mohamed Ibnkahla,"Optimal choice and design of different topologies of DC–DC converter used in PV systems, at different climatic conditions in Egypt",81,2012,2020-10-15
+Samuel A Ajila,Software maintenance: an approach to impact analysis of objects change,81,1995,2020-10-15
+Peter X. Liu,Adaptive fuzzy finite-time control of  nonlinear systems with actuator faults,81,2019,2020-10-15
+F. Richard Yu,A survey on large-scale software defined networking (SDN) testbeds: Approaches and challenges,81,2016,2020-10-15
+Peter X. Liu,Secondary peak detection of PPG signal for continuous cuffless arterial blood pressure measurement,80,2014,2020-10-15
+Yvan Labiche,Using genetic algorithms for early schedulability analysis and stress testing in real-time systems,80,2006,2020-10-15
+Mohamed Ibnkahla,Growth and photosynthetic responses of two coniferous species to experimental warming and nitrogen fertilization,80,2009,2020-10-15
+F. Richard Yu,Dynamic pricing for demand-side management in the smart grid,80,2011,2020-10-15
+Peter X. Liu,Dynamic pricing for demand-side management in the smart grid,80,2011,2020-10-15
+Rafik Goubran,Secondary peak detection of PPG signal for continuous cuffless arterial blood pressure measurement,80,2014,2020-10-15
+Murray Woodside,Performance modeling and prediction of enterprise JavaBeans with layered queuing network templates,80,2005,2020-10-15
+Peter X. Liu,Improving trajectory tracking in wave-variable-based teleoperation,80,2010,2020-10-15
+Thomas Kunz,A survey of middleware paradigms for mobile computing,79,2003,2020-10-15
+Chris Joslin,Collaborative virtual environments: from birth to standardization,79,2004,2020-10-15
+Murray Woodside,A metamodel for generating performance models from UML designs,79,2004,2020-10-15
+Yvan Labiche,A case study using the round-trip strategy for state-based class testing,79,2002,2020-10-15
+F. Richard Yu,Cognitive radio mobile ad hoc networks,79,2011,2020-10-15
+F. Richard Yu,Energy-Efficient Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks,79,2013,2020-10-15
+Amir Banihashemi,"A 0.18-$ muhbox m $ CMOS Analog Min-Sum Iterative Decoder for a (32, 8) Low-Density Parity-Check (LDPC) Code",79,2006,2020-10-15
+Peter X. Liu,Stochastic unit commitment in smart grid communications,79,2011,2020-10-15
+Peter X. Liu,Online data-driven fuzzy clustering with applications to real-time robotic tracking,79,2004,2020-10-15
+F. Richard Yu,A hierarchical identity based key management scheme in tactical mobile ad hoc networks,79,2010,2020-10-15
+F. Richard Yu,Stochastic unit commitment in smart grid communications,79,2011,2020-10-15
+F. Richard Yu,Capacity-optimized topology control for MANETs with cooperative communications,79,2011,2020-10-15
+Amir Banihashemi,On implementation of min-sum algorithm for decoding low-density parity-check (LDPC) codes,79,2002,2020-10-15
+Yvan Labiche,An automated approach to transform use cases into activity diagrams,78,2010,2020-10-15
+F. Richard Yu,A survey of game theory in wireless sensor networks security,78,2011,2020-10-15
+F. Richard Yu,Topology control in mobile ad hoc networks with cooperative communications,78,2012,2020-10-15
+Gabriel Wainer,Models of complex physical systems using Cell-DEVS,78,2001,2020-10-15
+Babak Esfandiari,Web Service Offerings Infrastructure (WSOI)-a management infrastructure for XML Web services,78,2004,2020-10-15
+Peter X. Liu,Data gathering communication in wireless sensor networks using ant colony optimization,77,2005,2020-10-15
+Ramy H. Gohary,Optimal tradeoff between sum-rate efficiency and Jain's fairness index in resource allocation,77,2013,2020-10-15
+Halim Yanikomeroglu,Optimal tradeoff between sum-rate efficiency and Jain's fairness index in resource allocation,77,2013,2020-10-15
+Murray Woodside,Layered queueing network solver and simulator user manual,77,2005,2020-10-15
+Halim Yanikomeroglu,Asymptotic BER analysis of threshold digital relaying schemes in cooperative wireless systems,77,2008,2020-10-15
+Yvan Labiche,Modeling safety and airworthiness (RTCA DO-178B) information: conceptual model and UML profile,77,2011,2020-10-15
+Dorina Petriu,Layered queueing network solver and simulator user manual,77,2005,2020-10-15
+Thomas Kunz,An architecture for adaptive mobile applications,76,1999,2020-10-15
+Rafik Goubran,Speech enhancement using a masking threshold constrained Kalman filter and its heuristic implementations,76,2005,2020-10-15
+Peter X. Liu,Convergence analysis of estimation algorithms for dual-rate stochastic systems,76,2006,2020-10-15
+F. Richard Yu,Mobility-based anomaly detection in cellular mobile networks,76,2004,2020-10-15
+Andy Adler,Precision-controlled elution of a 82Sr/82Rb generator for cardiac perfusion imaging with positron emission tomography,76,2007,2020-10-15
+Amir Banihashemi,Graph-based message-passing schedules for decoding LDPC codes,75,2004,2020-10-15
+Ioannis Lambadaris,Current Trends and Advances in Information Assurance Metrics.,75,2004,2020-10-15
+F. Richard Yu,Enhancing security using mobility-based anomaly detection in cellular mobile networks,75,2006,2020-10-15
+Ashraf Matrawy,Current Trends and Advances in Information Assurance Metrics.,75,2004,2020-10-15
+Amir Banihashemi,On the girth of quasi-cyclic protograph LDPC codes,75,2013,2020-10-15
+Yvan Labiche,Experimenting with genetic algorithms to devise optimal integration test orders,75,2003,2020-10-15
+Yvan Labiche,Automatic evaluation of intrusion detection systems,75,2006,2020-10-15
+Andy Adler,Mammography segmentation with maximum likelihood active contours,75,2012,2020-10-15
+Halim Yanikomeroglu,Efficient cooperative diversity schemes and radio resource allocation for IEEE 802.16 j,74,2008,2020-10-15
+Murray Woodside,Service system resource management based on a tracked layered performance model,74,2006,2020-10-15
+Peter X. Liu,Output-feedback adaptive control of networked teleoperation system with time-varying delay and bounded inputs,74,2015,2020-10-15
+Peter X. Liu,A multichannel IOS small gain theorem for systems with multiple time-varying communication delays,74,2009,2020-10-15
+F. Richard Yu,Computation offloading and content caching in wireless blockchain networks with mobile edge computing,74,2018,2020-10-15
+Rafik Goubran,Determination of sit-to-stand transfer duration using bed and floor pressure sequences,73,2009,2020-10-15
+Ian Marsland,On the performance of iterative noncoherent detection of coded M-PSK signals,73,2000,2020-10-15
+Murray Woodside,Using regression splines for software performance analysis,73,2000,2020-10-15
+Dorina Petriu,From UML to LQN by XML algebra-based model transformations,73,2005,2020-10-15
+James R Green,Global investigation of protein–protein interactions in yeast              Saccharomyces cerevisiae              using re-occurring short polypeptide sequences,73,2008,2020-10-15
+Ioannis Lambadaris,On minimizing the sum of sensor movements for barrier coverage of a line segment,73,2010,2020-10-15
+Andy Adler,Electrode placement configurations for 3D EIT,73,2007,2020-10-15
+F. Richard Yu,Green full-duplex self-backhaul and energy harvesting small cell networks with massive MIMO,73,2016,2020-10-15
+Mohamed Ibnkahla,Wireless sensor networks: Applications and challenges,73,2007,2020-10-15
+Andy Adler,"The impact of electrode area, contact impedance and boundary shape on EIT images",73,2011,2020-10-15
+Thomas Kunz,On-demand routing in MANETs: The impact of a realistic physical layer model,72,2003,2020-10-15
+F. Richard Yu,Artificial noise assisted secure interference networks with wireless power transfer,72,2017,2020-10-15
+F. Richard Yu,Virtual resource allocation in information-centric wireless networks with virtualization,72,2016,2020-10-15
+F. Richard Yu,Distributed virtual resource allocation in small-cell networks with full-duplex self-backhauls and virtualization,72,2015,2020-10-15
+F. Richard Yu,A novel interference alignment scheme based on sequential antenna switching in wireless networks,72,2013,2020-10-15
+Chung-Horng Lung,Software architecture recovery and restructuring through clustering techniques,72,1998,2020-10-15
+Ioannis Lambadaris,Modelling prioritized MPEG video using TES and a frame spreading strategy for transmission in ATM networks,72,1995,2020-10-15
+Rafik Goubran,Acoustic echo cancellation using NLMS-neural network structures,72,1995,2020-10-15
+F. Richard Yu,Efficient QoS provisioning for adaptive multimedia in mobile communication networks by reinforcement learning,71,2006,2020-10-15
+F. Richard Yu,A survey of mobile information-centric networking: Research issues and challenges,71,2018,2020-10-15
+Andy Adler,Sensitivity of exercise electrocardiography for acute cardiac events during moderate and strenuous physical activity: the Lipid Research Clinics Coronary Primary Prevention Trial,71,1991,2020-10-15
+Peter X. Liu,Adaptive neural output-feedback decentralized control for large-scale nonlinear systems with stochastic disturbances,71,2019,2020-10-15
+Yvan Labiche,"Coverage‐based regression test case selection, minimization and prioritization: A case study on an industrial system",70,2015,2020-10-15
+Amir Banihashemi,Dynamics and performance analysis of analog iterative decoding for low-density parity-check (LDPC) codes,70,2006,2020-10-15
+Samuel A Ajila,Cloud client prediction models for cloud resource provisioning in a multitier web application environment,70,2013,2020-10-15
+Halim Yanikomeroglu,User association and bandwidth allocation for terrestrial and aerial base stations with backhaul considerations,70,2017,2020-10-15
+Changcheng Huang,Protection/restoration of MPLS networks,70,1999,2020-10-15
+F. Richard Yu,A survey of energy-efficient caching in information-centric networking,70,2014,2020-10-15
+James R Green,Computational approaches toward the design of pools for the in vitro selection of complex aptamers,70,2010,2020-10-15
+Peter X. Liu,Convergence analysis of teleoperation systems with unsymmetric time-varying delays,70,2009,2020-10-15
+Peter X. Liu,Stochastic small-signal stability analysis of grid-connected photovoltaic systems,70,2016,2020-10-15
+F. Richard Yu,Adaptive energy-efficient power allocation in green interference-alignment-based wireless networks,69,2014,2020-10-15
+Rafik Goubran,Security monitoring using microphone arrays and audio classification,69,2006,2020-10-15
+F. Richard Yu,"Joint optimization of caching, computing, and radio resources for fog-enabled IoT using natural actor–critic deep reinforcement learning",69,2018,2020-10-15
+Adrian D. C. Chan,Security monitoring using microphone arrays and audio classification,69,2006,2020-10-15
+F. Richard Yu,"Software defined networking, caching, and computing for green wireless networks",69,2016,2020-10-15
+Mohamed Ibnkahla,Principles of MIMO-OFDM wireless systems,69,2004,2020-10-15
+F. Richard Yu,Handoff performance improvements in MIMO-enabled communication-based train control systems,68,2012,2020-10-15
+John Chinneck,An effective polynomial-time heuristic for the minimum-cardinality IIS set-covering problem,68,1996,2020-10-15
+Rafik Goubran,Identifying movement onset times for a bed-based pressure sensor array,68,2006,2020-10-15
+Halim Yanikomeroglu,On the optimal number of hops in infrastructure-based fixed relay networks,68,2005,2020-10-15
+Halim Yanikomeroglu,"Exploring synergy between communications, caching, and computing in 5G-grade deployments",68,2016,2020-10-15
+James R Green,Automated biosignal quality analysis for electromyography using a one-class support vector machine,68,2014,2020-10-15
+Mohamed Ibnkahla,"An evaluation of the antibacterial and antifungal activity of leaf extracts of Momordica charantia against Candida albicans, Staphylococcus aureus and Escherichia coli",68,2008,2020-10-15
+Thomas Kunz,Using automatic process clustering for design recovery and distributed debugging,68,1995,2020-10-15
+Andy Adler,Impact of model shape mismatch on reconstruction quality in electrical impedance tomography,68,2012,2020-10-15
+Adrian D. C. Chan,Automated biosignal quality analysis for electromyography using a one-class support vector machine,68,2014,2020-10-15
+Peter X. Liu,Adaptive neural synchronization control for bilateral teleoperation systems with time delay and backlash-like hysteresis,68,2017,2020-10-15
+Amir Banihashemi,On the complexity of decoding lattices using the Korkin-Zolotarev reduced basis,68,1998,2020-10-15
+Yvan Labiche,aToucan: an automated framework to derive UML analysis models from use case models,68,2015,2020-10-15
+F. Richard Yu,Joint cloud and wireless networks operations in mobile cloud computing environments with telecom operator cloud,68,2015,2020-10-15
+Andy Adler,Electrical impedance tomography system based on active electrodes,67,2012,2020-10-15
+Babak Esfandiari,Towards a classification of web service feature interactions,67,2007,2020-10-15
+Andy Adler,Towards a measure of biometric information,67,2006,2020-10-15
+Ioannis Lambadaris,On minimizing the maximum sensor movement for barrier coverage of a line segment,67,2009,2020-10-15
+F. Richard Yu,Performance improvements of mobile SCTP in integrated heterogeneous wireless networks,67,2007,2020-10-15
+Gabriel Wainer,Implementing parallel cell-DEVS,67,2003,2020-10-15
+John Chinneck,The constraint consensus method for finding approximately feasible points in nonlinear programs,67,2004,2020-10-15
+Mohamed Ibnkahla,Towards prolonged lifetime for deployed WSNs in outdoor environment monitoring,67,2015,2020-10-15
+Peter X. Liu,Sonar image segmentation based on GMRF and level-set models,67,2010,2020-10-15
+F. Richard Yu,A multi-level DDoS mitigation framework for the industrial internet of things,67,2018,2020-10-15
+F. Richard Yu,Attribute-based data access control in mobile cloud computing: Taxonomy and open issues,67,2017,2020-10-15
+John Chinneck,Finding a useful subset of constraints for analysis in an infeasible linear program,67,1997,2020-10-15
+John Chinneck,Active-constraint variable ordering for faster feasibility of mixed integer linear programs,66,2007,2020-10-15
+Thomas Kunz,Frequency accuracy & stability dependencies of crystal oscillators,66,2008,2020-10-15
+Yvan Labiche,"A UML profile for developing airworthiness-compliant (RTCA DO-178B), safety-critical software",66,2007,2020-10-15
+F. Richard Yu,"Integration of networking, caching, and computing in wireless systems: A survey, some research issues, and challenges",66,2017,2020-10-15
+Babak Esfandiari,On feature interactions among web services,66,2005,2020-10-15
+F. Richard Yu,Joint connection admission control and routing in IEEE 802.16-based mesh networks,66,2010,2020-10-15
+Yvan Labiche,Revisiting strategies for ordering class integration testing in the presence of dependency cycles,66,2001,2020-10-15
+Babak Esfandiari,On requirements for ontologies in management of web services,65,2002,2020-10-15
+Thomas Kunz,WAP traffic: Description and comparison to WWW traffic,65,2000,2020-10-15
+Murray Woodside,Performance-related completions for software specifications,65,2002,2020-10-15
+F. Richard Yu,Cloud computing meets mobile wireless communications in next generation cellular networks,65,2014,2020-10-15
+Peter X. Liu,An end-to-end transmission architecture for the remote control of robots over IP networks,65,2005,2020-10-15
+Halim Yanikomeroglu,"Adaptive modulation, adaptive coding, and power control for fixed cellular broadband wireless systems: some new insights",65,2003,2020-10-15
+James R Green,Method for determination of co-occurences of attributes,65,2004,2020-10-15
+Andy Adler,A primal–dual interior-point framework for using the L1 or L2 norm on the data and regularization terms of inverse problems,65,2012,2020-10-15
+F. Richard Yu,Distributed consensus-based security mechanisms in cognitive radio mobile ad hoc networks,65,2012,2020-10-15
+Peter X. Liu,Teleoperation over the internet with/without velocity signal,65,2011,2020-10-15
+Mohamed Ibnkahla,Strange attractors and chaos control in periodically forced complex Duffing's oscillators,64,2001,2020-10-15
+Changcheng Huang,Fault detection and path performance monitoring in meshed all-optical networks,64,2004,2020-10-15
+Gabriel Wainer,Synchronization methods in parallel and distributed discrete-event simulation,64,2013,2020-10-15
+Halim Yanikomeroglu,Investigating the Gaussian convergence of the distribution of the aggregate interference power in large wireless networks,64,2010,2020-10-15
+Chung-Horng Lung,Towards an autonomic auto-scaling prediction system for cloud resource provisioning,63,2015,2020-10-15
+Samuel A Ajila,Towards an autonomic auto-scaling prediction system for cloud resource provisioning,63,2015,2020-10-15
+Sreeraman Rajan,Feature-based neural network approach for oscillometric blood pressure estimation,63,2011,2020-10-15
+F. Richard Yu,Optimal Network Selection in Heterogeneous Wireless Multimedia Networks,63,2009,2020-10-15
+Peter X. Liu,Bilateral Control of Teleoperation Systems with Time Delay,63,2015,2020-10-15
+F. Richard Yu,Distributed resource allocation in blockchain-based video streaming systems with mobile edge computing,62,2018,2020-10-15
+Yvan Labiche,Automated traceability analysis for UML model refinements,62,2009,2020-10-15
+Yvan Labiche,Traffic-aware stress testing of distributed real-time systems based on UML models using genetic algorithms,62,2008,2020-10-15
+Thomas Kunz,An activity-based mobility model and location management simulation framework,62,1999,2020-10-15
+Murray Woodside,Automated performance modeling of software generated by a design environment,62,2001,2020-10-15
+Mohamed Ibnkahla,Quantifying connectivity in wireless sensor networks with grid-based deployments,62,2013,2020-10-15
+Mohamed Ibnkahla,Connectivity optimization for wireless sensor networks applied to forest monitoring,62,2009,2020-10-15
+Shikharesh Majumdar,Performance of CORBA-based client-server architectures,61,2002,2020-10-15
+Dorina Petriu,"Performance analysis of a software design using the uml profile for schedulability, performance, and time",61,2003,2020-10-15
+Murray Woodside,Performance analysis of security aspects by weaving scenarios extracted from UML models,61,2009,2020-10-15
+Murray Woodside,"Performance analysis of a software design using the uml profile for schedulability, performance, and time",61,2003,2020-10-15
+Murray Woodside,Deriving message sequence charts from use case maps scenario specifications,61,2001,2020-10-15
+Halim Yanikomeroglu,"Fast track article: Generating random graphs for the simulation of wireless ad hoc, actuator, sensor, and internet networks, Pervasive and Mobile Computing, v. 4 n. 5",61,2008,2020-10-15
+Ali Arya,The evolution and significance of the Global Game Jam,61,2013,2020-10-15
+Dorina Petriu,Performance analysis of security aspects by weaving scenarios extracted from UML models,61,2009,2020-10-15
+Ioannis Lambadaris,Performance analysis of first-fit wavelength assignment algorithm in optical networks,61,2003,2020-10-15
+Ioannis Lambadaris,Blocking probabilities for large multirate Erlang loss systems,61,1993,2020-10-15
+James R Green,Method for controlling the position of a permanent magnetically supported rotating component,61,2007,2020-10-15
+F. Richard Yu,Hybrid half-duplex/full-duplex cooperative non-orthogonal multiple access with transmit power adaptation,61,2017,2020-10-15
+Gabriel Wainer,Applying Cell-DEVS methodology for modeling the environment,60,2006,2020-10-15
+Amir Banihashemi,On characterization of elementary trapping sets of variable-regular LDPC codes,60,2014,2020-10-15
+F. Richard Yu,Energy-efficient distributed relay and power control in cognitive radio cooperative communications,60,2013,2020-10-15
+Peter X. Liu,Nonlinear adaptive control for quadrotor flying vehicle,60,2014,2020-10-15
+Halim Yanikomeroglu,Optimum threshold for SNR-based selective digital relaying schemes in cooperative wireless networks,60,2007,2020-10-15
+F. Richard Yu,Dynamic operations of cloud radio access networks (C-RAN) for mobile cloud computing systems,60,2015,2020-10-15
+Chung-Horng Lung,Communication requirements and analysis of distribution networks using WiMAX technology for smart grids,59,2012,2020-10-15
+F. Richard Yu,Computation offloading and resource allocation in vehicular networks based on dual-side cost minimization,59,2018,2020-10-15
+Ian Marsland,Multiple differential detection of parallel concatenated convolutional (turbo) codes in correlated fast Rayleigh fading,59,1998,2020-10-15
+Andy Adler,A resistive mesh phantom for assessing the performance of EIT systems,59,2010,2020-10-15
+Halim Yanikomeroglu,On the performance of selection relaying,59,2008,2020-10-15
+Andy Adler,Comparing human and automatic face recognition performance,59,2007,2020-10-15
+Thomas Kunz,Poet: Target-system independent visualizations of complex distributed-application executions,59,1997,2020-10-15
+Andy Adler,A novel biometric system for identification and verification of haptic users,59,2007,2020-10-15
+Halim Yanikomeroglu,Robust resource allocation to enhance physical layer security in systems with full-duplex receivers: Active adversary,59,2016,2020-10-15
+Andy Adler,Can images be regenerated from biometric templates?,58,2003,2020-10-15
+Shikharesh Majumdar,Characterisation of programs for scheduling in multiprogrammed parallel systems,58,1991,2020-10-15
+Dorina Petriu,Layered bottlenecks and their mitigation,58,2006,2020-10-15
+Gabriel Wainer,Distributed simulation of DEVS and Cell-DEVS models in CD++ using Web-Services,58,2008,2020-10-15
+Halim Yanikomeroglu,Strategic densification with UAV-BSs in cellular networks,58,2017,2020-10-15
+Ioannis Lambadaris,A comparative study of the SIP and IAX VoIP protocols,58,2005,2020-10-15
+Murray Woodside,Analysing software requirements specifications for performance,58,2002,2020-10-15
+John Chinneck,Analyzing infeasible mixed-integer and integer linear programs.,58,1996,2020-10-15
+Murray Woodside,Layered bottlenecks and their mitigation,58,2006,2020-10-15
+Ramy H. Gohary,A generalized iterative water-filling algorithm for distributed power control in the presence of a jammer,58,2009,2020-10-15
+Marc St-Hilaire,Expansion model for the controller placement problem in software defined networks,58,2017,2020-10-15
+F. Richard Yu,A survey on access control in fog computing,58,2018,2020-10-15
+Andy Adler,An improved visual cryptography scheme for secret hiding,57,2006,2020-10-15
+Samuel A Ajila,Predicting cloud resource provisioning using machine learning techniques,57,2013,2020-10-15
+Thomas Kunz,The performance of greedy geographic forwarding in unmanned aeronautical ad-hoc networks,57,2011,2020-10-15
+Thomas Kunz,On-demand multicasting in ad-hoc networks: Comparing AODV and ODMRP,57,2002,2020-10-15
+Marc St-Hilaire,The performance of greedy geographic forwarding in unmanned aeronautical ad-hoc networks,57,2011,2020-10-15
+Marc St-Hilaire,MeFoRE: QoE based resource estimation at Fog to enhance QoS in IoT,57,2016,2020-10-15
+Chung-Horng Lung,MeFoRE: QoE based resource estimation at Fog to enhance QoS in IoT,57,2016,2020-10-15
+Changcheng Huang,Hybrid cluster routing: an efficient routing protocol for mobile ad hoc networks,57,2006,2020-10-15
+Rafik Goubran,Experimental evaluation of a nested microphone array with adaptive noise cancellers,57,2004,2020-10-15
+Ioannis Lambadaris,MeFoRE: QoE based resource estimation at Fog to enhance QoS in IoT,57,2016,2020-10-15
+F. Richard Yu,Performance optimization for blockchain-enabled industrial Internet of Things (IIoT) systems: A deep reinforcement learning approach,57,2019,2020-10-15
+F. Richard Yu,Blockchain-Based Software-Defined Industrial Internet of Things: A Dueling Deep  -Learning Approach,57,2018,2020-10-15
+Ali Arya,The global game jam for teaching and learning,56,2013,2020-10-15
+Amir Banihashemi,Message-passing algorithms for counting short cycles in a graph,56,2012,2020-10-15
+Peter X. Liu,A New Coordinated Slave Torque Feedback Control Algorithm for Network-Based Teleoperation Systems,56,2013,2020-10-15
+Peter X. Liu,Modeling and stability analysis of automatic generation control over cognitive radio networks in smart grids,56,2015,2020-10-15
+Rafik Goubran,SNR estimation of speech signals using subbands and fourth-order statistics,56,1999,2020-10-15
+Richard Dansereau,A maximum likelihood estimation of vocal-tract-related filter characteristics for single channel speech separation,56,2006,2020-10-15
+Amir Banihashemi,Efficient search of girth-optimal QC-LDPC codes,56,2016,2020-10-15
+F. Richard Yu,"Resource allocation for ultra-dense networks: A survey, some research issues and challenges",56,2018,2020-10-15
+Yvan Labiche,"Empirical studies of software testing techniques: Challenges, practical strategies, and future research",56,2004,2020-10-15
+F. Richard Yu,Privacy-preserving content dissemination for vehicular social networks: Challenges and solutions,56,2018,2020-10-15
+Roshdy H. M. Hafez,Improved transmit null steering for MIMO-OFDM downlinks with distributed base station antenna arrays,55,2006,2020-10-15
+Marc St-Hilaire,An optimal P2P energy trading model for smart homes in the smart grid,55,2017,2020-10-15
+John Chinneck,CloudOpt: Multi-goal optimization of application deployments across a cloud,55,2011,2020-10-15
+Ashraf Matrawy,Bottleneck analysis of traffic monitoring using wireshark,55,2007,2020-10-15
+Adrian D. C. Chan,Continuous classification of myoelectric signals for powered prostheses using Gaussian mixture models,55,2003,2020-10-15
+Andy Adler,Non-invasive monitoring of central blood pressure by electrical impedance tomography: first experimental evidence,55,2011,2020-10-15
+Rafik Goubran,Perceptual Kalman filtering for speech enhancement in colored noise,55,2004,2020-10-15
+Thomas Kunz,An optimal P2P energy trading model for smart homes in the smart grid,55,2017,2020-10-15
+Dorina Petriu,Adding dependability analysis capabilities to the MARTE profile,55,2008,2020-10-15
+F. Richard Yu,Virtual resource allocation in software-defined information-centric cellular networks with device-to-device communications and imperfect CSI,55,2016,2020-10-15
+Thomas Kunz,Energy-efficient variations of OLSR,55,2008,2020-10-15
+Ian Marsland,An incremental redundancy hybrid ARQ scheme via puncturing and extending of polar codes,55,2015,2020-10-15
+Ian Marsland,Improved transmit null steering for MIMO-OFDM downlinks with distributed base station antenna arrays,55,2006,2020-10-15
+Ali Arya,Facial actions as visual cues for personality,55,2006,2020-10-15
+Murray Woodside,CloudOpt: Multi-goal optimization of application deployments across a cloud,55,2011,2020-10-15
+F. Richard Yu,Virtualization for distributed ledger technology (vDLT),54,2018,2020-10-15
+Murray Woodside,Fast scalable optimization to configure service systems having cost and quality of service constraints,54,2009,2020-10-15
+F. Richard Yu,A new QoS provisioning method for adaptive multimedia in cellular wireless networks,54,2004,2020-10-15
+Thomas Kunz,A survey on geographic routing protocols for mobile ad hoc networks,54,2011,2020-10-15
+Thomas Kunz,A dynamic individualized location management algorithm,54,1997,2020-10-15
+Andy Adler,Electrical impedance tomography can monitor dynamic hyperinflation in dogs,54,1998,2020-10-15
+John Chinneck,Fast scalable optimization to configure service systems having cost and quality of service constraints,54,2009,2020-10-15
+Marc St-Hilaire,Cloud-based smart waste management for smart cities,54,2016,2020-10-15
+Amir Banihashemi,Overlapped chunked network coding,54,2010,2020-10-15
+Yvan Labiche,A metamodeling approach to pattern specification,54,2006,2020-10-15
+Sreeraman Rajan,Measurement of heart rate variability using an oscillometric blood pressure monitor,54,2010,2020-10-15
+Marc St-Hilaire,A survey on geographic routing protocols for mobile ad hoc networks,54,2011,2020-10-15
+Peter X. Liu,Modelling and stabilisation of networked control system with packet loss and time-varying delays,54,2010,2020-10-15
+Dorina Petriu,Predicting high-risk preterm birth using artificial neural networks,54,2006,2020-10-15
+Adrian D. C. Chan,A multi-modal approach for hand motion classification using surface EMG and accelerometers,54,2011,2020-10-15
+Adrian D. C. Chan,Person identification using electrocardiograms,54,2006,2020-10-15
+Ioannis Lambadaris,Cloud-based smart waste management for smart cities,54,2016,2020-10-15
+Halim Yanikomeroglu,Efficient 3D aerial base station placement considering users mobility by reinforcement learning,54,2018,2020-10-15
+Changcheng Huang,A path protection/restoration mechanism for MPLS networks,54,2000,2020-10-15
+Halim Yanikomeroglu,Interference avoidance through dynamic downlink OFDMA subchannel allocation using intercell coordination,54,2008,2020-10-15
+Ioannis Lambadaris,"Source routed forwarding with software defined control, considerations and implications",54,2012,2020-10-15
+John Chinneck,MINOS (IIS): infeasibility analysis using MINOS,54,1994,2020-10-15
+Chung-Horng Lung,Cloud-based smart waste management for smart cities,54,2016,2020-10-15
+Yvan Labiche,Coverage-based test case prioritisation: An industrial case study,53,2013,2020-10-15
+Peter X. Liu,Hammerstein model identification based on bacterial foraging,53,2006,2020-10-15
+Amir Banihashemi,Bootstrap decoding of low-density parity-check codes,53,2002,2020-10-15
+Mohamed Ibnkahla,"A household serosurvey to estimate the magnitude of a dengue outbreak in Mombasa, Kenya, 2013",53,2015,2020-10-15
+Ramy H. Gohary,Design of linear dispersion codes: asymptotic guidelines and their implementation,53,2005,2020-10-15
+Andy Adler,An improved method for muscle activation detection during gait,53,2004,2020-10-15
+Andy Adler,Regional lung opening and closing pressures in patients with acute lung injury,53,2012,2020-10-15
+Halim Yanikomeroglu,Threshold based relay selection in cooperative wireless networks,53,2008,2020-10-15
+Mostafa Taha,Survey on threats and attacks on mobile networks,53,2016,2020-10-15
+Halim Yanikomeroglu,Future of ultra-dense networks beyond 5G: Harnessing heterogeneous moving cells,53,2019,2020-10-15
+Peter X. Liu,Design and implementation of a collaborative virtual haptic surgical training system,53,2005,2020-10-15
+Dorina Petriu,Virtual theater for industrial training: A collaborative virtual environment,53,2000,2020-10-15
+Rafik Goubran,Application of near-field optimum microphone arrays to hands-free mobile telephony,53,2003,2020-10-15
+Yvan Labiche,Design Synthesis from Interaction and State Based Specifications,52,2006,2020-10-15
+Amir Banihashemi,A differential binary message-passing LDPC decoder,52,2009,2020-10-15
+Yvan Labiche,Automated support for deriving test requirements from UML statecharts,52,2005,2020-10-15
+Yvan Labiche,"Automated, contract-based user testing of commercial-off-the-shelf components",52,2006,2020-10-15
+Andy Adler,Evaluation of EIT system performance,52,2011,2020-10-15
+Mohamed Ibnkahla,Cooperative cognitive radio networks: The complete spectrum cycle,52,2014,2020-10-15
+Andy Adler,Electrical impedance tomography,52,1999,2020-10-15
+Shikharesh Majumdar,Using analytic models predicting middleware performance,51,2000,2020-10-15
+Thomas Kunz,A survey on smart home networking,51,2009,2020-10-15
+Rafik Goubran,Nonlinear system identification using a subband adaptive Volterra filter,51,2009,2020-10-15
+Chris Joslin,Victim and Perpetrator Groups' Responses to the C anadian Government's Apology for the Head Tax on C hinese Immigrants and the Moderating Influence of Collective Guilt,51,2013,2020-10-15
+Roshdy H. M. Hafez,System and method for location tracking using wireless networks,51,2005,2020-10-15
+Chung-Horng Lung,Victim and Perpetrator Groups' Responses to the C anadian Government's Apology for the Head Tax on C hinese Immigrants and the Moderating Influence of Collective Guilt,51,2013,2020-10-15
+Dorina Petriu,Using analytic models predicting middleware performance,51,2000,2020-10-15
+F. Richard Yu,A survey on compressed sensing in vehicular infotainment systems,51,2017,2020-10-15
+Chung-Horng Lung,An approach to quantitative software architecture sensitivity analysis,51,2000,2020-10-15
+Halim Yanikomeroglu,Transmission power control for link-level handshaking in wireless sensor networks,51,2015,2020-10-15
+F. Richard Yu,Anti-eavesdropping schemes for interference alignment (IA)-based wireless networks,51,2016,2020-10-15
+Adrian D. C. Chan,Using a metal oxide sensor (MOS)-based electronic nose for discrimination of bacteria based on individual colonies in suspension,51,2011,2020-10-15
+F. Richard Yu,Energy-efficient M2M communications with mobile edge computing in virtualized cellular networks,51,2017,2020-10-15
+Yvan Labiche,An orchestrated survey of available algorithms and tools for combinatorial testing,50,2014,2020-10-15
+Adrian D. C. Chan,Fractal analysis of surface electromyography signals: a novel power spectrum-based method,50,2009,2020-10-15
+Mohamed Ibnkahla,"Hepatitis E outbreak, Dadaab refugee camp, Kenya, 2012",50,2013,2020-10-15
+Yvan Labiche,Towards automated support for deriving test data from UML statecharts,50,2003,2020-10-15
+Thomas Kunz,Cooperative node localization using nonlinear data projection,50,2009,2020-10-15
+Murray Woodside,Performance of multi-level client-server systems with parallel service operations,50,1998,2020-10-15
+Dorina Petriu,Model-driven dependability assessment of software systems,50,2013,2020-10-15
+Richard Dansereau,Fractal analysis of surface electromyography signals: a novel power spectrum-based method,50,2009,2020-10-15
+Chung-Horng Lung,Analysis on mobile WiMAX security,50,2009,2020-10-15
+Murray Woodside,Interaction tree algorithms to extract effective architecture and layered performance models from traces,50,2007,2020-10-15
+Peter X. Liu,All-pass filtering in iterative learning control,50,2009,2020-10-15
